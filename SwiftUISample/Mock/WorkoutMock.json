@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "traineeId": "1",
+        "startedAt": 1606978325,
+        "endedAt": 1606978325,
+        "executedList": [
+            {
+                "id": "1",
+                "menuId": "1",
+                "menuName": "メニューサンプル1",
+                "kg": 100,
+                "numberOfTimes": 3
+            },
+            {
+                "id": "2",
+                "menuId": "1",
+                "menuName": "メニューサンプル2",
+                "kg": 100,
+                "numberOfTimes": 3
+            },
+            {
+                "id": "3",
+                "menuId": "2",
+                "menuName": "メニューサンプル3",
+                "kg": 100,
+                "numberOfTimes": 3
+            }
+        ]
+    }
+]
+

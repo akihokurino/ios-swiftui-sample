@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "Aさん",
+        "gender": "女性",
+        "birthdate": "1991-01-01",
+        "phoneNumber": "080s12345678",
+        "exerciseHistory": "運動歴なし",
+        "exerciseGoal": "ダイエット",
+        "targetWeight": 70,
+        "currentHeight": 180,
+        "currentWeight": 70,
+        "memo": "メモです",
+        "profileImageURL": "http://placehold.jp/150x150.png",
+        "createdAt": 1606978325,
+        "updatedAt": 1606978325
+    },
+]
