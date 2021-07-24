@@ -5,3 +5,5 @@
 - combine
 - firebase auth
 - firestore
+- cocoapod
+- swift package manager
