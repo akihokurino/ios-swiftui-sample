@@ -1,6 +1,4 @@
-# ios-swiftui-sample
-
-## 構成
+## Specs
 - swiftui
 - combine
 - firebase auth
